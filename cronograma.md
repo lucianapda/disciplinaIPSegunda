@@ -33,7 +33,7 @@
 
 # Cronograma: IP (2022-1) - noturno  
 
-Local: S-XXXX  
+Local: S-415 
 Dia da semana: segundas (18:30\~22:00) e terças (20:20\~22:00)  
 
 <!-- [ ] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->
