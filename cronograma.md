@@ -36,7 +36,7 @@
 Local: S-415 
 Dia da semana: segundas (18:30\~22:00) e terças (20:20\~22:00)  
 
-<!-- [ ] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->
+<!-- [ ] Aviso: Inicio das aulas <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-55424447> -->
 ## [Unidade1](Unidade1 "Unidade1")  
 
 Ementa - fundamentos da programação de computadores: solução de problemas e técnicas para representação da solução.  
@@ -60,7 +60,7 @@ Fontes: [src](./Unidade1/src "src")
 - demonstração de um `Hello World` usando Java e VSCode (mas o mínimo possível);  
 - instalar Java e VSCode (próxima aula).  
 
-<!-- [ ] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->
+<!-- [ ] Aviso: Unidades1e2 atividades <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-55427636> -->
 
 ### [Unidade1-Atividades](Unidade1 "Unidade1-Atividades") Prazo: 13-03-2022 domingo
 
@@ -89,7 +89,7 @@ Fontes: [src](Unidade2/src "src")
 
 - método de resolução de algoritmos.  
 
-<!-- [ ] Aviso: Unidades3 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-56218482> -->
+<!-- [ ] Aviso: Unidades3 atividades <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-56218482> -->
 ### [Unidade2-Atividades](Unidade2 "Unidade2-Atividades") Prazo: 20-03-2022 domingo
 
 - Assistir as videoaulas da Unidades3  
@@ -111,7 +111,7 @@ Fontes: [src](./Unidade3/src "src")
 - algoritmos do URI (apresentar o URI, tem de ser **exato** …);  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
 
-<!-- [ ] Aviso: Frase do dia - praticar, praticar ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58979212> -->
+<!-- [ ] Aviso: Frase do dia - praticar, praticar ... <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-58979212> -->
 ### [Aula_09](Unidade3/aula.md#Aula_09 "22-03-2022 terça-feira") 22-03-2022 terça-feira
 
 - demonstração de exemplos: Java e VSCode;  
@@ -132,8 +132,8 @@ Fontes: [src](./Unidade3/src "src")
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
 
-<!-- [ ] Aviso: Unidades 3 atividades URI <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-57194025> -->
-<!-- [ ] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->
+<!-- [ ] Aviso: Unidades 3 atividades URI <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-57194025> -->
+<!-- [ ] Aviso: Unidades 4 atividades <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-59664910> -->
 ### [Unidade3-Atividades](Unidade3 "Unidade2-Atividades") Prazo: 03-04-2022	domingo
 
 - [atividadeUri](Unidade3/atividadeUri.md "atividadeUri")  
@@ -211,7 +211,7 @@ Fontes: [src](./Unidade4/src "src")
 ### [Aula_22](Unidade4/aula.md#Aula_22 "25-04-2022 segunda-feira") 25-04-2022 segunda-feira
 
 - Revisão Prova1  
-<!-- [ ] Aviso: Prova1: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-69779676> -->
+<!-- [ ] Aviso: Prova1: Lembrete <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-69779676> -->
 
 ### [Aula_23](Unidade4/aula.md#Aula_23 "25-04-2022 segunda-feira") 25-04-2022 segunda-feira
 
@@ -222,9 +222,9 @@ Fontes: [src](./Unidade4/src "src")
 ### [Aula_24](Unidade4/aula.md#Aula_24 "26-04-2022 terça-feira") 26-04-2022 terça-feira
 
 - Correção Prova1  
-<!-- [ ] Aviso: Prova1 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58035800> -->
+<!-- [ ] Aviso: Prova1 correção <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-58035800> -->
 
-<!-- Aviso: Unidades 5 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59665031> -->
+<!-- Aviso: Unidades 5 atividades <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-59665031> -->
 ### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo: 01-05-2022	domingo
 
 - Assistir as videoaulas da Unidades5  
@@ -248,7 +248,7 @@ Fontes: [src](./Unidade5/src "src")
 - comandos de controle de fluxo: repetição;  
   - Grupo PARA (for): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for> "atividadeAula-GrupoFor").  
-<!-- [ ] Aviso: conversa com os alunos <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55423467> -->
+<!-- [ ] Aviso: conversa com os alunos <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-55423467> -->
 - conversa com os alunos (individualmente).  
 
 ### [Aula_27](Unidade5/aula.md#Aula_27 "03-05-2022 terça-feira") 03-05-2022 terça-feira
@@ -295,7 +295,7 @@ Fontes: [src](./Unidade5/src "src")
   - Grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
 
-<!-- Aviso: Unidades 6 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266455> -->
+<!-- Aviso: Unidades 6 atividades <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-62266455> -->
 ### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo: 22-05-2022	domingo
 
 - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri")  
@@ -380,9 +380,9 @@ Fontes: [src](./Unidade6/src "src")
 ### [Aula_45](Unidade6/aula.md#Aula_45 "14-06-2022 terça-feira") 14-06-2022 terça-feira
 
 - Correção Prova2  
-<!-- [ ] Aviso: Prova2 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-63075365> -->
+<!-- [ ] Aviso: Prova2 correção <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-63075365> -->
 
-<!-- Aviso: Unidades 7 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266044> -->
+<!-- Aviso: Unidades 7 atividades <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-62266044> -->
 ### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo: 19-06-2022	domingo
 
 - Assistir as videoaulas da Unidades7  
