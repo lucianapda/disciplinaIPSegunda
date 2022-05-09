@@ -257,35 +257,33 @@ Fontes: [src](./Unidade5/src "src")
 
 ### [Aula_28](Unidade5/aula.md#Aula_28 "09-05-2022 segunda-feira") 09-05-2022 segunda-feira
 
-- Semana Acadêmica  
+- comandos de controle de fluxo: repetição;  
+  - Grupo PARA (for): demonstração de exemplos: Java e VSCode;  
+    - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for> "atividadeAula-GrupoFor").   
 
 ### [Aula_29](Unidade5/aula.md#Aula_29 "09-05-2022 segunda-feira") 09-05-2022 segunda-feira
 
-- Semana Acadêmica  
+- comandos de controle de fluxo: repetição;  
+  - Grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
+    - [atividadeAula-GrupoWhile](Unidade5/atividadeAula.md#grupo-enquanto-while "atividadeAula-GrupoWhile").    
 
 ### [Aula_30](Unidade5/aula.md#Aula_30 "10-05-2022 terça-feira") 10-05-2022 terça-feira
 
 - comandos de controle de fluxo: repetição;  
-  - Grupo PARA (for): demonstração de exemplos: Java e VSCode;  
-    - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for> "atividadeAula-GrupoFor").  
-- conversa com os alunos (individualmente).  
+  - Grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
+    - [atividadeAula-GrupoWhile](Unidade5/atividadeAula.md#grupo-enquanto-while "atividadeAula-GrupoWhile").   
 
 ### [Aula_31](Unidade5/aula.md#Aula_31 "16-05-2022 segunda-feira") 16-05-2022 segunda-feira
 
-- comandos de controle de fluxo: repetição;  
-  - Grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
-    - [atividadeAula-GrupoWhile](Unidade5/atividadeAula.md#grupo-enquanto-while "atividadeAula-GrupoWhile").  
+- comandos de controle de fluxo: repetição;   
   - Grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
 
 ### [Aula_32](Unidade5/aula.md#Aula_32 "16-05-2022 segunda-feira") 16-05-2022 segunda-feira
 
 - comandos de controle de fluxo: repetição;  
-  - Grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
-    - [atividadeAula-GrupoWhile](Unidade5/atividadeAula.md#grupo-enquanto-while "atividadeAula-GrupoWhile").  
-  - Grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
-    - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
-- conversa com os alunos (individualmente).  
+  - resolução de exercícios
+  - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").
 
 ### [Aula_33](Unidade5/aula.md#Aula_33 "17-05-2022 terça-feira") 17-05-2022 terça-feira
 
