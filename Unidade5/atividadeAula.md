@@ -283,7 +283,7 @@ Exemplo de entrada / saída:
 | 1      | Nenhum de Nós |  
 | 2      | CPM22         |  
 | 3      | Skank         |  
-| 3      | Jota Quest    |  
+| 4      | Jota Quest    |  
 
 Descreva um algoritmo que:  
 
