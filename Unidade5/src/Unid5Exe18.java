@@ -11,7 +11,7 @@ import java.util.Scanner;
    e escreva, para cada emissora, o percentual de audiência. A leitura deve 
    ser finalizada quando for informado canal 0. */
 
-public class Exe18 {
+public class Unid5Exe18 {
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
