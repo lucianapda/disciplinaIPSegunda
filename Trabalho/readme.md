@@ -1,8 +1,8 @@
 # Introdução à Programação (IP) - Trabalho Final
 
-Prazo máximo para definir as equipes: 22/06/2022.  
-Prazo máximo para apresentação do trabalho: 29/06/2022.  
-Para as equipes que VIEREM PRESENCIALMENTE em sala de aula nas aulas da disciplina e NÃO CONSEGUIREM apreentar dia 29/06 poderão apresentar segunda-feira, dia 04/07.
+Prazo máximo para definir as equipes: 21/06/2022.  
+Prazo máximo para apresentação do trabalho: 28/06/2022.  
+Para as equipes que VIEREM PRESENCIALMENTE em sala de aula nas aulas da disciplina e NÃO CONSEGUIREM apresentar dia 28/06 poderão apresentar segunda-feira, dia 04/07.
 Equipes: duplas (caso o número de alunos seja ímpar, poderá ter um trio).  
 
 ## Definições
